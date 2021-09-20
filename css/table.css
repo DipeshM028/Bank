@@ -1,0 +1,35 @@
+*{
+	padding: 10px;
+	margin: 10px;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+
+table{
+	letter-spacing: 1.2px;
+	
+}
+.tab{
+	width: 100%;
+	margin-bottom: 1rem;
+	background-color: transparent;
+	
+}
+table{
+	border-collapse: collapse;
+}
+td{
+	text-align: center;
+}
+button{
+	border:none;
+	background: #d9d9d9;
+    transition: 1s;
+}
+table:hover{
+	background-color: transparent;
+}
+.p2{
+	padding: 5px;
+}

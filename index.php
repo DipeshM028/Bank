@@ -53,7 +53,7 @@
            <img src="images/user.jpg" class="img-fluid">
            <br>
         
-           <a class="bb" href="view user.html">
+           <a class="bb" href="view user.php">
                <button>View Customer</button>
             </a>
        </div>
@@ -61,7 +61,7 @@
        <div class="col">
            <img src="images/tracestion.jpg" class="img-fluid">
            <br>
-           <a class="bb" href="transfermoney.html">
+           <a class="bb" href="transfermoney.php">
                <button> Make a Transection</button>
             </a>
        </div>
